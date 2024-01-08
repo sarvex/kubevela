@@ -91,10 +91,10 @@ require (
 	github.com/xlab/treeprint v1.1.0
 	go.mongodb.org/mongo-driver v1.11.2
 	go.uber.org/zap v1.21.0 // indirect
-	golang.org/x/crypto v0.6.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/oauth2 v0.3.0
-	golang.org/x/term v0.5.0
-	golang.org/x/text v0.7.0
+	golang.org/x/term v0.15.0
+	golang.org/x/text v0.14.0
 	gomodules.xyz/jsonpatch/v2 v2.2.0
 	gopkg.in/yaml.v3 v3.0.1
 	gotest.tools v2.2.0+incompatible
@@ -166,7 +166,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/chai2010/gettext-go v1.0.2 // indirect
 	github.com/clbanning/mxj/v2 v2.5.5 // indirect
-	github.com/cloudflare/circl v1.1.0 // indirect
+	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/cockroachdb/apd/v2 v2.0.2 // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
@@ -307,9 +307,9 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
 	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.6.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
