@@ -36,7 +36,7 @@ require (
 	github.com/fatih/color v1.13.0
 	github.com/felixge/httpsnoop v1.0.1 // indirect
 	github.com/fluxcd/helm-controller/api v0.21.0
-	github.com/fluxcd/source-controller/api v0.24.4
+	github.com/fluxcd/source-controller/api v0.30.0
 	github.com/form3tech-oss/jwt-go v3.2.3+incompatible
 	github.com/gdamore/tcell/v2 v2.4.1-0.20210905002822-f057f0a857a1
 	github.com/gertd/go-pluralize v0.2.1
@@ -114,7 +114,7 @@ require (
 	k8s.io/metrics v0.25.3
 	k8s.io/utils v0.0.0-20220728103510-ee6ede2d64ed
 	open-cluster-management.io/api v0.7.0
-	sigs.k8s.io/controller-runtime v0.12.3
+	sigs.k8s.io/controller-runtime v0.13.0
 	sigs.k8s.io/controller-tools v0.9.2
 	sigs.k8s.io/gateway-api v0.4.3
 	sigs.k8s.io/kind v0.17.0
@@ -182,9 +182,9 @@ require (
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/emicklei/proto v1.10.0 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
-	github.com/fluxcd/pkg/apis/acl v0.0.3 // indirect
+	github.com/fluxcd/pkg/apis/acl v0.1.0 // indirect
 	github.com/fluxcd/pkg/apis/kustomize v0.3.3 // indirect
-	github.com/fluxcd/pkg/apis/meta v0.13.0 // indirect
+	github.com/fluxcd/pkg/apis/meta v0.16.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/fvbommel/sortorder v1.0.1 // indirect
 	github.com/gdamore/encoding v1.0.0 // indirect
